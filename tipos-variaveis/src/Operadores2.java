@@ -1,14 +1,10 @@
 public class Operadores2 {
     public static void main(String[] args) {
-        int numero = 5;
+        boolean variavel = true;
+        System.out.println(!variavel);
 
-        numero = -numero;
-
-        System.out.println(numero);
-
-        numero = numero * -1;
-
-        System.out.println(numero);
+        variavel = !variavel;
+        System.out.println(variavel);
     }
 }
 
