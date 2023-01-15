@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Operadores3",
+            "request": "launch",
+            "mainClass": "Operadores3",
+            "projectName": "dio.java_5fb08198"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
