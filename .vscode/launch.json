@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
             "name": "Launch Operadores3",
             "request": "launch",
             "mainClass": "Operadores3",
