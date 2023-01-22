@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
             "name": "Launch TiposVariaveis",
             "request": "launch",
             "mainClass": "TiposVariaveis",
