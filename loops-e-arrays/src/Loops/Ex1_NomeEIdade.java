@@ -1,4 +1,3 @@
-package Loops;
 import java.util.Scanner;
 
 public class Ex1_NomeEIdade { 

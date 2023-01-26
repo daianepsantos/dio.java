@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "Ex5_Tabuada",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex4_ParEImpar",
             "request": "launch",
             "mainClass": "Ex4_ParEImpar",
