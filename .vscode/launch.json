@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "Ex6_Fatorial",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex5_Tabuada",
             "request": "launch",
             "mainClass": "Ex5_Tabuada",
