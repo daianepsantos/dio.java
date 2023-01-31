@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "metodos.src.Main",
+            "projectName": "dio.java_b8acb5cf"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex4_ArrayMultidimensional",
             "request": "launch",
             "mainClass": "Arrays.Ex4_ArrayMultidimensional",
